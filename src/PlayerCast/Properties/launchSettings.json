@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PlayerCast (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PlayerCast (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
